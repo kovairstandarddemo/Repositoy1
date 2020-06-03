@@ -13,7 +13,6 @@ public class User<wishlist>
 		wishlist = new ArrayList<Item>();
 	}
 <<<<<<< HEAD
-	//edit//editjd//edit
 =======
 	//
 >>>>>>> branch 'master' of https://github.com/kovairstandarddemo/Repositoy1.git
