@@ -10,11 +10,11 @@ if(n%i==0)
 {    
 printf("Login Pass")//edit
 flag=1;    
-break;    
+break;  
 }    
 }    
 if(flag==0)    
 printf("Login Failed "); //editefytyjk
 return 0;  
  }    
-Requirement ID : 45
+Requirement ID : 64
