@@ -1,42 +1,41 @@
-import java.util.ArrayList;
+package com.sonar.io;
 
-public class Automation <wishlist> {
-	private String name; 
-	private ArrayList<Item> wishlist;
-	private User mytaste;
-	private User con;
+public class JavaProgram {
+	public static void main(String args[]){
+		int a[]={1,2,3,2,11,15,14,16};
+		System.out.println("Odd Numbers:");
+		for(int i=0;i<a.length;i++){
+			if(a[i]%2!=0){
+				System.out.println(a[i]);
+			}
+		}
+		System.out.println("Even Number:");
 	
-	public User(String name, User con){
-		this.name = name;
-                this.con = con;
-		wishlist = new ArrayList<Item>();
-	}
-	//#BR45
-	public String getName(){
-		return name;
-	}
-
-	public ArrayList<Item> getWishlist(){
-		return wishlist;
+		for(int i=0;i<a.length;i++){
+			if(a[i]%2==0){
+				System.out.println(a[i]);
+			}
+		}
+		
+		
+		String input = "GeeksforGeeks"; 
+		  
+        // getBytes() method to convert string  
+        // into bytes[]. 
+        byte [] strAsByteArray = input.getBytes(); 
+  
+        byte [] result =  
+                   new byte [strAsByteArray.length]; 
+  
+        // Store result in reverse order into the 
+        // result byte[] 
+        for (int i = 0; i<strAsByteArray.length; i++) 
+            result[i] =  
+             strAsByteArray[strAsByteArray.length-i-1]; 
+  
+        System.out.println(new String(result)); 
+        System.out.println(new String(result)); 
+        // Requirement ID : 68
 	}
 	
-	public void addToWishlist(Item item){
-		wishlist.add(item);
-	}
-	
-	public void removeFromWishlist(Item item){
-		wishlist.remove(item);					// BR 77
-	}
-      
-	public User getTasteManager(){
-		return mytaste;
-	}
-
-        public Item getddItemFromWishlist(int i){
-		return wishlist.get(i);
-	}
-	public static void main(String[] args) {
-		//Auto-generated method stub
-
-	}
-//User_123
+}
