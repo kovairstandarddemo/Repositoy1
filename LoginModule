@@ -14,7 +14,7 @@ break;
 }    
 }    
 if(flag==0)    
-printf("Login Failed "); //modified
+printf("Login Failed "); 
 return 0;  
  }    
 Requirement ID : 395
