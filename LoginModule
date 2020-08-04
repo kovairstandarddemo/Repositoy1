@@ -12,7 +12,7 @@ if(n%i==0)
 printf("Login Pass")
 flag=1;    
 break; 
-}     \\modifiedbyanshu
+}     
 }   
 if(flag==0)     
 printf("Login Failed "); 
