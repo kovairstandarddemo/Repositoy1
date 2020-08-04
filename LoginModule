@@ -11,7 +11,7 @@ if(n%i==0)
 {    
 printf("Login Pass")
 flag=1;    
-break;  
+break; 
 }    
 }    
 if(flag==0)    
