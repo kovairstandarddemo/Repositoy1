@@ -4,7 +4,11 @@ struct char_list
   struct char_list *next;
 };
 
+<<<<<<< HEAD
 struct char_list cl3 = {"Third",(struct char_list*)(0)};// BR ID 436
+=======
+struct char_list cl3 = {"Third",(struct char_list*)(0)};// BR ID 438
+>>>>>>> branch 'master' of https://github.com/kovairstandarddemo/Repositoy1.git
 struct char_list cl2 = {"Second",&cl3};
 struct char_list cl1 = {"First",&cl2};
 
