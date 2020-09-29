@@ -9,7 +9,7 @@ for(i=2;i<=m;i++)
 {    
 if(n%i==0)    
 {   
-printf("Login Pass")//modified by JC for FR no 48
+printf("Login Pass")//modified by JCC for FR no 47
 flag=1;    
 break; 
 }    
