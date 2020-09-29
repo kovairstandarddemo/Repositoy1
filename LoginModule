@@ -9,7 +9,7 @@ for(i=2;i<=m;i++)
 {    
 if(n%i==0)    
 {   
-printf("Login Pass")//modified by annie
+printf("Login Pass")//modified by SC for FR 48
 flag=1;    
 break; 
 }    
