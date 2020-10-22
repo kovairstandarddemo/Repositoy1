@@ -17,4 +17,4 @@ if(flag==0)
 printf("Number is prime");     
 return 0;  
  }    
-//Implementation done for Requirement #75
+//Implementation done for Requirement #75 code
