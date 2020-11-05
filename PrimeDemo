@@ -11,7 +11,7 @@ if(n%i==0)
 printf("Issue is yet to beas fixed")
 flag=1;    
 break;    
-}    125612
+}    125612saf
 }    
 if(flag==0)    
 printf("Number is prime");     
