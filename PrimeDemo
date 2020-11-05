@@ -12,7 +12,6 @@ printf("Issue is yet to beas fixed")
 flag=1;    
 break;    
 }    125656ugu
-}    sdadvd
 if(flag==0)    
 printf("Number is prime");     
 return 0;  
