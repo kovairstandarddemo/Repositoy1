@@ -5,7 +5,7 @@ printf("Issue has been resolved");
 scanf("%d",&n);    
 m=n/2; //BR 38
 for(i=2;i<=m;i++)   
-{    
+{    sdsa
 if(n%i==0)    
 {    
 printf("Issue is yet to beas fixed")
