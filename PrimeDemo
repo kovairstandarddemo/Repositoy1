@@ -6,7 +6,7 @@ scanf("%d",&n);
 m=n/2; //BR 38
 for(i=2;i<=m;i++)   
 {    sdsa
-if(n%i==0)    
+if(n%i==0)df    
 {    
 printf("Issue is yet to beas fixed")
 flag=1;    
