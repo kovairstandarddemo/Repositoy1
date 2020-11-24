@@ -16,4 +16,4 @@ if(flag==0)
 printf("Number is prime");     
 return 0;  
  }    
-//Implementation done322
+//Implementation done 39
