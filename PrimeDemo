@@ -16,4 +16,4 @@ if(flag==0)
 printf("Number is prime");     
 return 0;  
  }    
-//Implementation done 31 mk
+//Implementation done 31 mk y
