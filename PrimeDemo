@@ -15,6 +15,6 @@ break;
 if(flag==0)    
 printf("Number is prime");     
 return 0;  
- }    //comment
+ }    //comment aadded for 244
  //Implementation done against KOV -18238
  240
