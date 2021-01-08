@@ -17,4 +17,4 @@ printf("Number is prime");
 return 0;  
  }    //comment aadded for 245
  //Implementation done against KOV -18238
- 240
+ 240 comment added
