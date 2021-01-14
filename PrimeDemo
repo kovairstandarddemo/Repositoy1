@@ -16,5 +16,4 @@ if(flag==0)
 printf("Number is prime");     
 return 0;  
  }    //comment added for 
- //Implementation done against Id 255 commit
- 
+ //Implementation done against Id 15 mk
