@@ -16,4 +16,4 @@ if(flag==0)
 printf("Number is prime");  //106
 return 0;  
  }    //comment added for 
- //Implementation done against Id 106 fixed by mk
+ //Implementation done against Id 106 fixed by kdemo user
