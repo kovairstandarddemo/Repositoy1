@@ -13,7 +13,7 @@ flag=1;
 break;    
 }    125656ugu
 if(flag==0)    
-printf("Number is prime");  //106
+printf("Number is prime");  //100
 return 0;  
  }    //comment added for 
  //Implementation done against Id 106 fixed by kdemo user
