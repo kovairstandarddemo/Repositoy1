@@ -16,4 +16,4 @@ if(flag==0)
 printf("Number is prime");   //cmtg16867ggj
 return 0;  
  }    //comment added for 
- //Implementation done against Id 15 fixed
+ //Implementation done against Id 106 fixed
