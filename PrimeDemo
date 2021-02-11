@@ -11,9 +11,9 @@ if(n%i==0)df
 printf("Issue is yet to be as fixed")
 flag=1;    
 break;    
-}    125656ugu
+}    
 if(flag==0)    
-printf("Number is prime");  //609
+printf("Number is prime");  //22
 return 0;  
  }    //comment added for record 268
  //Implementation done against Id 262 fixed by kovsrv on 28
