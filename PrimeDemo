@@ -16,4 +16,4 @@ if(flag==0)
 printf("Number is prime");  //2290
 return 0;  
  }    //comment added for record 268
- //Implementation done against Id 262 fixed b mk on 3
+ //Implementation done against Id 262 fixed by Admin
