@@ -16,4 +16,4 @@ if(flag==0)
 printf("Number is prime");  //
 return 0;  
  }    //comment added for record CHG00309
- //Implementation done against Id 262 fixed by Anshu
+ //Implementation done against Id 262 fixed by Anshu sinha
