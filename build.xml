@@ -67,6 +67,8 @@
 
 		
 		<!-- ========= The main target "all" ========= -->
+			<!--commented-->
+						<!--commented -->
 		
 		<target name="all" depends="clean,compile,sonar"/>
 		</project>
