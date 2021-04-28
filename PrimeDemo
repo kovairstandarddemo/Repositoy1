@@ -15,5 +15,5 @@ break;
 if(flag==0)    
 printf("Number is prime");  //
 return 0;  
- }    
+ }    211
 //commented
