@@ -17,4 +17,4 @@ if(flag==0)
 printf("Number is prime");  //
 return 0;  
  }    
-//commented 341
+//commented 346
