@@ -16,7 +16,7 @@ break;
 if(flag==0)    
 printf("Number is prime");  //kjhjk
 return 0;  
-<<<<<<< HEAD
+<<<<<<< HEAD//gfyug
  }  
 //commented on 351 y hhj
 =======
