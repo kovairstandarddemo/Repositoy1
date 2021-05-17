@@ -16,10 +16,4 @@ break;
 if(flag==0)    
 printf("Number is prime");  //
 return 0;  
-<<<<<<< HEAD//gfyug
- }  
-//commented on 351 y hhj
-=======
- }    
-//commented on req
->>>>>>> refs/remotes/origin/master
+}
