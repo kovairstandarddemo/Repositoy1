@@ -14,7 +14,7 @@ flag=1;
 break;    
 }    
 if(flag==0)    
-printf("Number is prime");  //
+printf("Number is prime");  //bjk
 return 0;  
 }
-//Commited for 3559
+//Commited forkm
