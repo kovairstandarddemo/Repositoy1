@@ -14,7 +14,6 @@ flag=1;
 break;    
 }    
 if(flag==0)    
-printf("Number is prime"); //as304
+printf("Number is prime"); 
 return 0;  
 }
-//Commited forkm
