@@ -9,7 +9,7 @@ for(i=2;i<=m;i++)
 if(n%i==0)df    
 {    
 printf("Issue is yet to be as fixed")
-//comment
+
 flag=1;    
 break;    
 }    
