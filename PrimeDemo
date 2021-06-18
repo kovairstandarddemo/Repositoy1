@@ -17,4 +17,4 @@ if(flag==0)
 printf("Number is prime"); 
 return 0;  
 }
-//commented by jeet once more on 18062021 by jeetc
+//commented by jeet once more on 18062021
