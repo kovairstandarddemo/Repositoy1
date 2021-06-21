@@ -9,7 +9,7 @@ for(i=2;i<=m;i++)
 {    
 if(n%i==0)    
 {   
-printf("Login Pass") //49
+printf("Login Pass") 
 flag=1;    
 break; 
 }    
@@ -18,7 +18,7 @@ if(flag==0)
 printf("Login Failed ");
 return 0; ;
  } 
- 
+ //Commented on 21062021
  
 
  
