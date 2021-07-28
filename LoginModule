@@ -16,8 +16,7 @@ break;
 }   
 if(flag==0)     
 printf("Login Failed ");
-return 0; ;
- }  //gyxdajhjjdvc
+return 0; 
  
 
  
