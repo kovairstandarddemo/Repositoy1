@@ -11,7 +11,7 @@ if(n%i==0)df
 printf("Issue is yet to be as fixed")
 
 flag=1;    
-break;    //cc
+break;    
 }    
 if(flag==0)    
 printf("Number is prime"); 
